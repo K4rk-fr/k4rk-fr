@@ -1,16 +1,15 @@
-## Hi there 👋
+### K4RK
+---
+Independent software engineer. Business software, internal tools, self-hosted infrastructure.
 
-<!--
-**K4rk-fr/k4rk-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**What I do** — full-stack development (web, desktop & mobile), DevOps, prototyping and R&D,
+technical guidance and methodology.
 
-Here are some ideas to get you started:
+**Recent work** — realtime PWAs (database, offline persistence, push messaging) · DRM-protected
+video streaming (HLS/DASH, Widevine, PlayReady, encoding workflows) · show control and stage
+automation (timecode generators, OSC & MIDI triggers, video mapping with Resolume, Rekordbox and
+Grand MA) · strong authentication (custom SSO, 2FA, WebAuthN).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently building** — Migrating the K4RK website on Statamic with static generation.
+
+**Get in touch** — matt@k4rk.fr · https://www.k4rk.fr
